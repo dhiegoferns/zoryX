@@ -1,0 +1,14 @@
+{
+  "name": "zoryx-client",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/AndersonAngelo/zoryX.git",
+  "author": "Anderson Angelo",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^26.2.1"
+  }
+}
